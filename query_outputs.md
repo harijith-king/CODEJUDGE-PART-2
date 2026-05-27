@@ -164,7 +164,42 @@ OUTPUTS of the QUERIES
     Dynamic Programming Basics 13	94
     Graph Traversal 6	            92
 
-## 16.
+## 16.find students whose average score is greater than overall average score
 
+    full_name    avg_score
+    Ira Pillai	    46.5
+    Ananya Bose	   45.0
+    Ayaan Gupta	   44.2
+    Meera Gupta	   58.4285714285714
+    Rohan Singh	   44.0
+    Ananya Pillai	 62.0
+    Harsh Roy	     57.7142857142857
 
+## 17. find problems that have never been attempted
+
+    problem_id title
+    P0036	     Trie Search 36
+
+## 18. find students who enrolled but never submitted any solution
+
+    student_id full_name 
+    NULL        NULL
+    
+## 19.find students who submitted in both Python and Java
+
+    student_id full_name
+      S0002	    Harsh Das
+      S0003	    Ira Pillai
+      S0005	    Ayaan Gupta
+      S0006	    Isha Mehta
+      S0007	    Reyansh Kulkarni
+      S0008	    Gaurav Das
+      S0009	    Meera Gupta
+
+## 20. find second highest score for a selected problem
+
+     second_highest_score
+            75
+
+       
 
