@@ -3,16 +3,11 @@ OUTPUTS of the QUERIES
 ## 1.List all active students with student ID, name, email, batch, and admission date.
  -- 1st 4 lines of the output
 
-  S0001	Vivaan Gupta	vivaan.gupta001@codejudge.edu	CSE2025B	2025-02-13
-  
-  S0002	Harsh Das	harsh.das002@codejudge.edu	MCA2025A	2025-04-08
-  
-  S0003	Ira Pillai	ira.pillai003@codejudge.edu	BCA2025A	2025-02-19
-  
-  S0004	Ananya Bose	ananya.bose004@codejudge.edu	CSE2026A	2025-02-19  
-  
-  
-
+    S0001	Vivaan Gupta	vivaan.gupta001@codejudge.edu	CSE2025B	2025-02-13
+    S0002	Harsh Das	harsh.das002@codejudge.edu	MCA2025A	2025-04-08
+    S0003	Ira Pillai	ira.pillai003@codejudge.edu	BCA2025A	2025-02-19
+    S0004	Ananya Bose	ananya.bose004@codejudge.edu	CSE2026A	2025-02-19  
+    
 ## 2.Find students whose email is missing or appears invalid.
   student_id	  full_name    	email
   
