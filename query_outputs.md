@@ -177,8 +177,10 @@ OUTPUTS of the QUERIES
 
 ## 18. find students who enrolled but never submitted any solution
 
-    student_id full_name 
-    NULL        NULL
+    student_id
+    S0110
+    S0248
+    S0035
     
 ## 19.find students who submitted in both Python and Java
 
