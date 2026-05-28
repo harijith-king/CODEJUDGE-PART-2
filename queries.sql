@@ -132,7 +132,7 @@ WHERE problem_id NOT IN (
 );
 
 -- 18. find students who enrolled but never submitted any solution
-SELECT DISTINCT st.student_id,st.full_name
+SELECT DISTINCT st.student_id
 FROM students st
 JOIN enrollments e
 ON st.student_id = e.student_id
